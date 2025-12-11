@@ -1,0 +1,108 @@
+{
+  "GET_USER_INFO_URL": "https://api.icitybox.cn/index.php/api/user/get_user_info",
+  "ROULETTE_URL": "https://api.icitybox.cn/index.php/api/roulette_draw/draw_results",
+  "COUPON_LIST_URL": "https://api.icitybox.cn/index.php/api/account/coupon_list",
+  "LOTTERY_INFO_URL": "https://api.icitybox.cn/api/lottery/lottery_info",
+  "LOTTERY_LOG_URL": "https://api.icitybox.cn/api/lottery/user_lottery_log",
+  "LOTTERY_URL": "https://api.icitybox.cn/api/lottery/user_join_lottery",
+  "LOTTERY_RECEIVE_URL": "https://api.icitybox.cn/api/lottery/user_lottery_receive",
+  "SIGN_URL": "https://api.icitybox.cn/index.php/api/user/up_sign",
+  "HEADER": {
+    "Host": "api.icitybox.cn",
+    "Connection": "keep-alive",
+    "Platform-Id": "1",
+    "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat",
+    "content-type": "application/x-www-form-urlencoded",
+    "language": "zh_CN",
+    "platform": "wap",
+    "sign": "d7f1086401306ebdfd494b9be389c28c",
+    "Referer": "https://servicewechat.com/wx8434e31068c20849/418/page-frame.html",
+    "Accept-Encoding": "gzip, deflate, br"
+  },
+  "ACCOUNT_INFO": {
+    "18725569231": {
+      "token": "rmcqib6vb4gbi0nak2rtatebco71driq",
+      "cookie": {
+        "BoxToken": "rq9dgcg3tmdpq4e6gaalp2hc0so12345",
+        "platform": "wechat",
+        "mobile": "18725569231"
+      },
+      "token_expire": false,
+      "last_modou": 797,
+      "last_sign": "2025-12-11 11:13:38",
+      "difference": 0,
+      "current_modou": 797,
+      "hassign": 1
+    },
+    "19026066354": {
+      "token": "ovrjlm100r4t9camb2mqr4nn3l7d1a9b",
+      "cookie": {
+        "BoxToken": "d7f1086401306ebdfd494b9be389c28c",
+        "platform": "wechat",
+        "mobile": "19026066354"
+      },
+      "token_expire": true,
+      "last_modou": 1950,
+      "last_sign": "2025-07-08 00:00:11",
+      "difference": 8,
+      "current_modou": 1958,
+      "hassign": 0
+    },
+    "15195819117": {
+      "token": "a8bqemk30ta9c9v3dkqhf9niqvof8jbt",
+      "cookie": {
+        "BoxToken": "rq9dgcg3tmdpq4e6gaalp2hc0so12345",
+        "platform": "wechat",
+        "mobile": "15195819117"
+      },
+      "token_expire": false,
+      "last_modou": 1517,
+      "last_sign": "2025-12-11 16:05:55",
+      "difference": 0,
+      "current_modou": 1517,
+      "hassign": 1
+    },
+    "19521255180": {
+      "token": "f49od964k2l5escc6jlukc2vqlq7pjlb",
+      "cookie": {
+        "BoxToken": "1a1baad82d45bcbd35522d6f45032efb",
+        "platform": "wechat",
+        "mobile": "19521255180"
+      },
+      "token_expire": false,
+      "last_modou": 299,
+      "last_sign": "2025-12-11 16:13:04",
+      "difference": 18,
+      "current_modou": 317,
+      "hassign": 1
+    },
+    "13818935168": {
+      "token": "1truefj3d76kocqdo6itbsoon4d25u87",
+      "cookie": {
+        "BoxToken": "rq9dgcg3tmdpq4e6gaalp2hc0so12345",
+        "platform": "wechat",
+        "mobile": "13818935168"
+      },
+      "token_expire": true,
+      "last_modou": 8359,
+      "last_sign": "2025-07-08 00:00:27",
+      "difference": 18,
+      "current_modou": 8377,
+      "hassign": 0
+    },
+    "17321234445": {
+      "token": "8nsvs4ivpk7ks816c27u993oc1pqseml",
+      "cookie": {
+        "BoxToken": "rq9dgcg3tmdpq4e6gaalp2hc0so12345",
+        "platform": "wechat",
+        "mobile": "17321234445"
+      },
+      "token_expire": true,
+      "last_modou": 10617,
+      "last_sign": "2025-07-01 03:51:21",
+      "difference": 63,
+      "current_modou": 10680,
+      "hassign": 0
+    }
+  }
+}
