@@ -25,4 +25,4 @@ jobs:
         pip install requests
         
     - name: Run script
-      run: python checkin.py
+      run: python citybox_.py
