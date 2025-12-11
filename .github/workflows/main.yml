@@ -2,8 +2,7 @@ name: 每日自动签到
 
 on:
   schedule:
-    # 北京时间每天早上 8:00 运行
-    - cron: '0 0 * * *'
+  - cron: '1 16 * * *'  # 北京时间 00:01 (UTC 16:01)
   workflow_dispatch: # 允许手动运行
 
 jobs:
